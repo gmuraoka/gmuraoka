@@ -8,7 +8,8 @@
 - BSc in System Analysis and Development, 2017 - Universidade Estácio de Sá (Estácio)
 
 ### 👨‍💻 Professional Experiences
-- Partner Success Manager, Compliance Soluções Fiscais **(current)**;
+- FullStack Developer, Travel IT **(current)**;
+- Partner Success Manager, Compliance Soluções Fiscais (2019-2022);
 - Digital Products Specialist, Conexia Educação (2017-2018);
 - Web Developer, Travel IT (2017);
 - System Analyst, Soluções VIP (2015-2016);
