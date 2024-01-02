@@ -8,7 +8,8 @@
 - BSc in System Analysis and Development, 2017 - Universidade Estácio de Sá (Estácio)
 
 ### 👨‍💻 Professional Experiences
-- FullStack Developer, Travel IT **(current)**;
+- FullStack Developer, Viagens Abreu, S/A. **(current)**;
+- FullStack Developer, Travel IT;
 - Partner Success Manager, Compliance Soluções Fiscais (2019-2022);
 - Digital Products Specialist, Conexia Educação (2017-2018);
 - Web Developer, Travel IT (2017);
@@ -17,10 +18,10 @@
 
 ### 🎯 Skills
 #### Development
+- .Net (C#)
 - JavaScript/TypeScript
 - HTML & CSS
 - PHP
-- .Net (C#)
 #### Databases
 - Oracle
 - MySQL
@@ -29,8 +30,7 @@
 ### 🌎 Languages 
 - 🇧🇷 Portuguese (Native)
 - 🇺🇸 English (Professional);
-- 🇫🇷 French (Beginner);
-- 🇮🇹 Italian (Beginner).
+- 🇫🇷 French (Professional);
 
 ### 🔗 Social Links
 - Personal website: https://gabrielmuraoka.com/
